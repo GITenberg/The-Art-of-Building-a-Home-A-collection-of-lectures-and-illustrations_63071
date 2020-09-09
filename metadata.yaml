@@ -1,0 +1,32 @@
+_repo: The-Art-of-Building-a-Home-A-collection-of-lectures-and-illustrations_63071
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Parker, Barry
+    alias: Parker, Richard Barry
+    birthdate: 1867
+    deathdate: 1947
+    gutenberg_agent_id: '52263'
+    url: http://www.gutenberg.org/2009/agents/52263
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Barry_Parker
+  - agent_name: Unwin, Raymond, Sir
+    birthdate: 1863
+    deathdate: 1940
+    gutenberg_agent_id: '52264'
+    url: http://www.gutenberg.org/2009/agents/52264
+    wikipedia: https://en.wikipedia.org/wiki/Raymond_Unwin
+description: ''
+gutenberg_issued: '2020-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63071'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic'
+- !lcc 'NA'
+- GITenberg
+title: 'The Art of Building a Home: A collection of lectures and illustrations'
+url: http://www.gutenberg.org/ebooks/63071
